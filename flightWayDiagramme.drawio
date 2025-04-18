@@ -227,7 +227,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LsBxcCUEYk7-WHCRCn2U" name="Azure cloud Deploy">
-    <mxGraphModel dx="3566" dy="2883" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3170" dy="2573" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -448,6 +448,11 @@
         <mxCell id="7TnYWDUlVgmGqVzgzirS-22" value="Load Balancer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="7TnYWDUlVgmGqVzgzirS-17" vertex="1">
           <mxGeometry x="3" y="223" width="152" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ySWvU1ybE8MlDJ3wBxio-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;" edge="1" parent="7TnYWDUlVgmGqVzgzirS-17" source="7TnYWDUlVgmGqVzgzirS-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="938.4285714285716" y="-78.28571428571422" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7TnYWDUlVgmGqVzgzirS-23" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="7TnYWDUlVgmGqVzgzirS-17" vertex="1">
           <mxGeometry x="226" y="135" width="619" height="360" as="geometry" />
         </mxCell>
@@ -617,6 +622,16 @@
         <mxCell id="7TnYWDUlVgmGqVzgzirS-63" value="Aure monitor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;container=0;" parent="7TnYWDUlVgmGqVzgzirS-80" vertex="1">
           <mxGeometry y="117" width="133" height="36" as="geometry" />
         </mxCell>
+        <mxCell id="ySWvU1ybE8MlDJ3wBxio-6" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="7TnYWDUlVgmGqVzgzirS-80">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-67" y="-227.1400000000001" as="sourcePoint" />
+            <mxPoint x="527" y="-431.1400000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="107" y="-231.1400000000001" />
+              <mxPoint x="527" y="-234.1400000000001" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7TnYWDUlVgmGqVzgzirS-81" value="" style="group" parent="7TnYWDUlVgmGqVzgzirS-84" vertex="1" connectable="0">
           <mxGeometry x="191" y="23.8900000000001" width="128" height="146.76999999999998" as="geometry" />
         </mxCell>
@@ -667,6 +682,16 @@
         </mxCell>
         <mxCell id="7TnYWDUlVgmGqVzgzirS-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7TnYWDUlVgmGqVzgzirS-85" target="7TnYWDUlVgmGqVzgzirS-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ySWvU1ybE8MlDJ3wBxio-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1403" y="286" as="sourcePoint" />
+            <mxPoint x="1783" y="656" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1577" y="282" />
+              <mxPoint x="1580" y="656" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
