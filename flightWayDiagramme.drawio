@@ -728,6 +728,12 @@
             <mxPoint x="2900" y="1135" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="qH4zDNqvU2TVrbSRkBQh-20" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_network;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="1804" y="819.25" width="50" height="27.500000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="qH4zDNqvU2TVrbSRkBQh-21" value="Vnet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="1862" y="814" width="69" height="42" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
