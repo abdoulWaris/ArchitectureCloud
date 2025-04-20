@@ -227,7 +227,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LsBxcCUEYk7-WHCRCn2U" name="Azure cloud Deploy">
-    <mxGraphModel dx="4300" dy="2570" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2350" dy="1485" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -403,6 +403,11 @@
         </mxCell>
         <mxCell id="vzC0LEXgEcCG-MOFsz38-26" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="2302" y="389" width="165" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="nQGWKl04nhl6WS0ysKM6-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="vzC0LEXgEcCG-MOFsz38-26" source="vzC0LEXgEcCG-MOFsz38-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="409.11114501953125" y="37.799999999999955" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vzC0LEXgEcCG-MOFsz38-24" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/BlobBlock.svg;" parent="vzC0LEXgEcCG-MOFsz38-26" vertex="1">
           <mxGeometry x="28" width="90" height="75.6" as="geometry" />
@@ -739,6 +744,43 @@
         </mxCell>
         <mxCell id="nQGWKl04nhl6WS0ysKM6-1" value="&lt;h1&gt;&lt;b&gt;FlightWay Cloud Architecture&lt;/b&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="1032" y="-171" width="1215" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nQGWKl04nhl6WS0ysKM6-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2673" y="355" width="330" height="193" as="geometry" />
+        </mxCell>
+        <mxCell id="nQGWKl04nhl6WS0ysKM6-3" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/BlobBlock.svg;" vertex="1" parent="nQGWKl04nhl6WS0ysKM6-5">
+          <mxGeometry x="41" width="178" height="149.52" as="geometry" />
+        </mxCell>
+        <mxCell id="nQGWKl04nhl6WS0ysKM6-4" value="Disaster Backup Storage(GRS)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="nQGWKl04nhl6WS0ysKM6-5">
+          <mxGeometry x="-35" y="151" width="365" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="nQGWKl04nhl6WS0ysKM6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.602;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="foBC02ciA8FQseYPim09-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2033.9999999999995" y="267.99" as="sourcePoint" />
+            <mxPoint x="2799.974" y="355.0010400000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1945" y="297" />
+              <mxPoint x="2800" y="297" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nQGWKl04nhl6WS0ysKM6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="nQGWKl04nhl6WS0ysKM6-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2173" y="508" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="2173" y="561" />
+              <mxPoint x="2551" y="561" />
+              <mxPoint x="2551" y="466" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nQGWKl04nhl6WS0ysKM6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.502;entryY=1.082;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vzC0LEXgEcCG-MOFsz38-21" target="nQGWKl04nhl6WS0ysKM6-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1963" y="634" />
+              <mxPoint x="2821" y="634" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
