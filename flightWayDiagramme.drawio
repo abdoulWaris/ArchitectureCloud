@@ -227,7 +227,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LsBxcCUEYk7-WHCRCn2U" name="Azure cloud Deploy">
-    <mxGraphModel dx="3520" dy="2136" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3000" dy="1847" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -697,7 +697,7 @@
             <mxPoint x="1396" y="1169" as="sourcePoint" />
             <mxPoint x="2060.0459893048123" y="873" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2063" y="1162" />
+              <mxPoint x="2063" y="1173" />
               <mxPoint x="2060" y="1023" />
             </Array>
           </mxGeometry>
@@ -733,6 +733,12 @@
         </mxCell>
         <mxCell id="qH4zDNqvU2TVrbSRkBQh-21" value="Vnet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="1862" y="814" width="69" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="qH4zDNqvU2TVrbSRkBQh-22" value="Peering" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="1554" y="318" width="104" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="qH4zDNqvU2TVrbSRkBQh-23" value="Peering" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="1696" y="1131" width="104" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
