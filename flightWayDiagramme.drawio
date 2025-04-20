@@ -746,13 +746,22 @@
           <mxGeometry x="1032" y="-171" width="1215" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nQGWKl04nhl6WS0ysKM6-5" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2673" y="355" width="330" height="193" as="geometry" />
+          <mxGeometry x="2673" y="355" width="295" height="193" as="geometry" />
         </mxCell>
         <mxCell id="nQGWKl04nhl6WS0ysKM6-3" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/BlobBlock.svg;" vertex="1" parent="nQGWKl04nhl6WS0ysKM6-5">
           <mxGeometry x="41" width="178" height="149.52" as="geometry" />
         </mxCell>
-        <mxCell id="nQGWKl04nhl6WS0ysKM6-4" value="Disaster Backup Storage(GRS)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="nQGWKl04nhl6WS0ysKM6-5">
-          <mxGeometry x="-35" y="151" width="365" height="42" as="geometry" />
+        <mxCell id="nQGWKl04nhl6WS0ysKM6-4" value="Disaster Backup Storage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="nQGWKl04nhl6WS0ysKM6-5">
+          <mxGeometry y="151" width="295" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="nQGWKl04nhl6WS0ysKM6-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="3195" y="336" width="236" height="231" as="geometry" />
+        </mxCell>
+        <mxCell id="nQGWKl04nhl6WS0ysKM6-6" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Disaster Backup&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;Storage Replication&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nQGWKl04nhl6WS0ysKM6-8">
+          <mxGeometry y="159" width="236" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="nQGWKl04nhl6WS0ysKM6-7" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/BlobBlock.svg;" vertex="1" parent="nQGWKl04nhl6WS0ysKM6-8">
+          <mxGeometry x="23" width="178" height="149.52" as="geometry" />
         </mxCell>
         <mxCell id="nQGWKl04nhl6WS0ysKM6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.602;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="foBC02ciA8FQseYPim09-6">
           <mxGeometry relative="1" as="geometry">
@@ -781,6 +790,9 @@
               <mxPoint x="2821" y="634" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nQGWKl04nhl6WS0ysKM6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.618;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nQGWKl04nhl6WS0ysKM6-3" target="nQGWKl04nhl6WS0ysKM6-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
