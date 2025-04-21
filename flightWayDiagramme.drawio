@@ -716,8 +716,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qH4zDNqvU2TVrbSRkBQh-9" value="Monitoring" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" parent="1" vertex="1">
-          <mxGeometry x="1544" y="1471" width="135" height="42" as="geometry" />
+        <mxCell id="qH4zDNqvU2TVrbSRkBQh-9" value="&lt;b&gt;Monitoring&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" parent="1" vertex="1">
+          <mxGeometry x="1538" y="1471" width="147" height="42" as="geometry" />
         </mxCell>
         <mxCell id="qH4zDNqvU2TVrbSRkBQh-12" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="2805" y="1292" width="213" height="157" as="geometry" />
