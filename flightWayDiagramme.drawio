@@ -227,7 +227,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LsBxcCUEYk7-WHCRCn2U" name="Azure cloud Deploy">
-    <mxGraphModel dx="4832" dy="3876" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1508" dy="1269" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -805,6 +805,30 @@
         </mxCell>
         <mxCell id="nQGWKl04nhl6WS0ysKM6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.618;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nQGWKl04nhl6WS0ysKM6-3" target="nQGWKl04nhl6WS0ysKM6-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aSAQm3dj9jdFjYY597FM-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="22" y="-173" width="249" height="166" as="geometry" />
+        </mxCell>
+        <mxCell id="aSAQm3dj9jdFjYY597FM-3" value="" style="group" vertex="1" connectable="0" parent="aSAQm3dj9jdFjYY597FM-7">
+          <mxGeometry width="128" height="166" as="geometry" />
+        </mxCell>
+        <mxCell id="aSAQm3dj9jdFjYY597FM-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-128.png" vertex="1" parent="aSAQm3dj9jdFjYY597FM-3">
+          <mxGeometry width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="aSAQm3dj9jdFjYY597FM-2" value="Github" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="aSAQm3dj9jdFjYY597FM-3">
+          <mxGeometry x="22.5" y="128" width="83" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="aSAQm3dj9jdFjYY597FM-6" value="" style="group" vertex="1" connectable="0" parent="aSAQm3dj9jdFjYY597FM-7">
+          <mxGeometry x="161" y="2" width="88" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="aSAQm3dj9jdFjYY597FM-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Code.svg;" vertex="1" parent="aSAQm3dj9jdFjYY597FM-6">
+          <mxGeometry width="88" height="71.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aSAQm3dj9jdFjYY597FM-5" value="Code" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="aSAQm3dj9jdFjYY597FM-6">
+          <mxGeometry x="8.5" y="83" width="71" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="aSAQm3dj9jdFjYY597FM-8" value="A discuter" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="201" y="-32" width="71" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
